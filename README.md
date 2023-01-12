@@ -42,7 +42,7 @@ Follow the steps below
 
 1.  Go to the project on VsCode and run with LiveServer extension.
 
-2.  Or [Click on this link to enter the site](https://github.com/JulioAlvesRJ/Portfolio_JulioAlves)
+2.  Or [Click on this link to enter the site](https://julioalvesrj.github.io/Portfolio_JulioAlves/)
 
 ## 💻 Project
 
