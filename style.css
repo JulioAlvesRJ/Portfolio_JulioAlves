@@ -447,6 +447,10 @@ body.dark-theme {
     column-gap: 1.5rem;
   }
 
+  .profile__info-description {
+    font-size: var(--smaller-font-size);
+  }
+
   .profile__buttons {
     flex-direction: column;
     row-gap: 1rem;
